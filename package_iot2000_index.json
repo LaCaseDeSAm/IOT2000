@@ -13,7 +13,7 @@
           "help": {
             "online": "https://support.industry.siemens.com/tf/ww/en/conf/60/"
           },
-          "url": "https://github.com/juntermar/arduino-iot2000/tree/master/Versions/iot2000_1.0.1.zip",
+          "url": "https://github.com/LaCaseDeSAm/IOT2000/tree/master/Versions/iot2000_1.0.1.zip",
           "archiveFileName": "iot2000_1.0.1.zip",
           "checksum": "SHA-256:0fa5c0cb72dff7a472198f489babbd8c6959d445d0007181f97f26bfd0f3ca20",
           "size": "423626",
